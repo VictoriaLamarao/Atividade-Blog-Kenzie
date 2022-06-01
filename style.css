@@ -1,0 +1,72 @@
+h1 {
+    color: white;
+    border: 1px solid blue;
+    text-align: center;
+    background-color: blue;
+    border-width: 15px;
+    
+}
+
+
+article {
+    width: 700px;
+    margin: auto;
+}
+
+img {   
+    align: left;
+    width: 120px;
+    height: 120px;
+    
+}
+
+
+.newsletter {
+    width: 1300px;
+    margin: auto; 
+    text-align: center;  
+    color: white;
+    border: 1px solid blue;
+    text-align: center;
+    background-color: blue;
+    border-width: 12px;
+
+}
+
+header {
+    background-color: blue;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}   
+
+
+    
+.imginfo {
+    display: block;
+    width: 70%;
+    height: 50%;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto; 
+    
+}
+
+.banner {
+    width: 80%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container{
+    text-align: center;
+    padding: 10px 20px;
+    color: blue;
+
+}
+
+
+
